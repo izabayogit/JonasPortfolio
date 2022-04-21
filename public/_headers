@@ -1,0 +1,57 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-2a03c1ba630f86ba7d46.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.223fa2eb4796b48e67f3.css
+  Cache-Control: public, max-age=31536000, immutable
+/e50e9c162871c1d91fba5ce567a5656e16dc6783-57fd94de1bf44968a226.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-ac9f49151b2567623eec.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-27b588601e865f089a13.js
+  Cache-Control: public, max-age=31536000, immutable
+/cb1608f2-9572e469207e09b998ee.js
+  Cache-Control: public, max-age=31536000, immutable
+/a9a7754c-9710491375f37ef610af.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-fe498cfdfb5de48ffbbf.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-9e17e58aec64d58eeafc.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-b3c80545773ca2505fc3.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-9e17e58aec64d58eeafc.js>; rel=preload; as=script
+  Link: </framework-27b588601e865f089a13.js>; rel=preload; as=script
+  Link: </app-b3c80545773ca2505fc3.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-2a03c1ba630f86ba7d46.js>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-9e17e58aec64d58eeafc.js>; rel=preload; as=script
+  Link: </framework-27b588601e865f089a13.js>; rel=preload; as=script
+  Link: </app-b3c80545773ca2505fc3.js>; rel=preload; as=script
+  Link: </e50e9c162871c1d91fba5ce567a5656e16dc6783-57fd94de1bf44968a226.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-ac9f49151b2567623eec.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-9e17e58aec64d58eeafc.js>; rel=preload; as=script
+  Link: </framework-27b588601e865f089a13.js>; rel=preload; as=script
+  Link: </app-b3c80545773ca2505fc3.js>; rel=preload; as=script
+  Link: </e50e9c162871c1d91fba5ce567a5656e16dc6783-57fd94de1bf44968a226.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-ac9f49151b2567623eec.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-9e17e58aec64d58eeafc.js>; rel=preload; as=script
+  Link: </framework-27b588601e865f089a13.js>; rel=preload; as=script
+  Link: </app-b3c80545773ca2505fc3.js>; rel=preload; as=script
+  Link: </framework-27b588601e865f089a13.js>; rel=preload; as=script
+  Link: </cb1608f2-9572e469207e09b998ee.js>; rel=preload; as=script
+  Link: </a9a7754c-9710491375f37ef610af.js>; rel=preload; as=script
+  Link: </e50e9c162871c1d91fba5ce567a5656e16dc6783-57fd94de1bf44968a226.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-fe498cfdfb5de48ffbbf.js>; rel=preload; as=script

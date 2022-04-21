@@ -1,15 +1,15 @@
 {
-  "name": "retro-template",
-  "description": "Retro - One Page Modern Resume Template",
+  "name": "portfolio",
+  "description": "IZABAYO Jonas Portfolio",
   "version": "1.0.0",
-  "author": "Syed Muaz Ali",
+  "author": "IZABAYO Jonas",
   "private": true,
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.12.1",
     "@primer/octicons-react": "^9.6.0",
     "animate.css": "^3.7.2",
     "baffle-react": "0.0.2",
-    "gatsby": "^2.21.1",
+    "gatsby": "^4.0.0-next",
     "gatsby-image": "2.2.37",
     "gatsby-link": "2.2.27",
     "gatsby-plugin-feed": "2.3.25",
@@ -47,7 +47,8 @@
     "react-tilt": "^0.1.4",
     "scroll-to-element": "^2.0.3",
     "slick-carousel": "^1.8.1",
-    "typewriter-effect": "^2.13.0"
+    "typewriter-effect": "^2.13.0",
+    "url-loader": "^4.1.1"
   },
   "resolutions": {
     "gatsby-plugin-favicon/favicons-webpack-plugin/favicons/sharp": "0.23.1"
@@ -71,7 +72,6 @@
   ],
   "main": "n/a",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop"
   }
