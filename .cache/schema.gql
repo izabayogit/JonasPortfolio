@@ -1,4 +1,4 @@
-### Type definitions saved at 2022-04-21T11:34:39.932Z ###
+### Type definitions saved at 2022-04-21T13:26:05.100Z ###
 
 enum RemoteFileFit {
   COVER
@@ -304,6 +304,7 @@ type SiteBuildMetadata implements Node @dontInfer {
 }
 
 type MarkdownHeading {
+  id: String
   value: String
   depth: Int
 }
